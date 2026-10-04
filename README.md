@@ -84,7 +84,6 @@ The analysis identified several notable patterns:
 
 ## 📁 Project Structure
 
-text
 olist-ecommerce-analytics/
 │
 ├── Olist_Dashboard.pbix
