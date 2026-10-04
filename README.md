@@ -88,11 +88,10 @@ olist-ecommerce-analytics/
 │
 ├── Olist_Dashboard.pbix
 ├── README.md
-└── screenshots/
-    ├── overview.png
-    ├── sales_products.png
-    ├── customers_reviews.png
-    ├── delivery_operations.png
+├── overview.png
+├── sales_products.png
+├── customers_reviews.png
+├── delivery_operations.png
 
 ## 📌 Dataset
 
