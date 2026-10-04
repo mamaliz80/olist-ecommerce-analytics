@@ -12,7 +12,6 @@ The Power BI dashboard contains five pages:
 * **Sales & Products** — Sales by product category, customer state, seller state, AOV, and freight costs
 * **Customers & Reviews** — Customer behavior, review scores, repeat customers, and day-of-week analysis
 * **Delivery & Operations** — Order status, delivery performance, late orders, and delivery time
-* **Executive Summary** — High-level management view of the most important KPIs and sales trends
 
 ## 🎯 Business Questions
 
