@@ -94,7 +94,6 @@ olist-ecommerce-analytics/
     ├── sales_products.png
     ├── customers_reviews.png
     ├── delivery_operations.png
-    └── executive_summary.png
 
 ## 📌 Dataset
 
